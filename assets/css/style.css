@@ -1,0 +1,14 @@
+.form-group{
+    display:flex;
+    justify-content: center;
+    padding: 10px 40px;
+}
+.form-control{
+    width: 50%;
+}
+.btn{
+        text-align: center;
+        margin: auto;
+        display: block;
+        margin-top: 40px;
+}
